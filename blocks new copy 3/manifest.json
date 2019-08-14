@@ -1,0 +1,11 @@
+{
+    "name": "Hopscotch",
+    "version": "2.2",
+    "description": "Hopscotch code shower",
+"manifest_version":2,
+    "content_scripts": [{
+      "css":["blocktypes.css","thing.css"],
+      "js": ["parser.js","thing.js","shortcuts.js","display.js"],
+      "matches":["https://*.gethopscotch.com/*"]
+    }]
+  }

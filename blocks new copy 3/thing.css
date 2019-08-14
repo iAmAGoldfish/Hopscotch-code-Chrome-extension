@@ -1,0 +1,40 @@
+
+.error {
+background-color: #eee;
+display: inline;
+}
+
+.block {
+border: 1px solid #ccc;
+border-radius: 8px;
+margin: 16px;
+background-color: #222;
+color: #fff;
+font-family: avenir;
+}
+
+a[href*=Petrichor] {
+    color: red!important;
+        font-family:"Comic Sans MS"!important;
+		font-weight: 900!important;
+    }
+
+.inside {
+background-color: #fff;
+}
+
+.parameterBubble {
+border: 1px solid #ccc;
+border-radius: 50px;
+display: inline;
+background-color: #fff;
+color: #222;
+}
+
+.object {
+background-color: #6DDAEB;
+}
+
+.when {
+background-color: #BE3164;
+}
