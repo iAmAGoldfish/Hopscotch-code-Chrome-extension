@@ -13,11 +13,7 @@ color: #fff;
 font-family: avenir;
 }
 
-a[href*=Petrichor] {
-    color: red!important;
-        font-family:"Comic Sans MS"!important;
-		font-weight: 900!important;
-    }
+
 
 .inside {
 background-color: #fff;
@@ -38,3 +34,9 @@ background-color: #6DDAEB;
 .when {
 background-color: #BE3164;
 }
+
+a[href*=etrichor] {
+    color: red!important;
+        font-family:"Comic Sans MS"!important;
+		font-weight: 900!important;
+    }
